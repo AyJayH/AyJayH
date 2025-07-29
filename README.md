@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Alexander
 
-I'm a developer, builder, and systems thinker passionate about **every layer of the tech stack** — from the lowest bits of firmware to cloud-based backend services.
+I'm a developer passionate about **every layer of the tech stack** — from the lowest bits of firmware to cloud-based backend services.
 
 ---
 
